@@ -1,0 +1,5 @@
+1. Connect MQ135 sensor to NodeMCU as per pin table.
+2. Flash the code from Air_Quality_Code folder.
+3. Replace Wi-Fi and ThingSpeak API key in the code.
+4. Upload via Arduino IDE.
+5. Open ThingSpeak and monitor Field 1 for real-time data.
